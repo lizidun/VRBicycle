@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 38fb9ba86e19e4427bb2c825eef04d87
+timeCreated: 1498440044
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baohuceng
+    100002: baowenceng
+    100004: dierbianfangshui
+    100006: diyibianfangshui
+    100008: fanghuaguangchangzhuan
+    100010: geliceng
+    100012: group1
+    100014: jiceng
+    100016: lengdiziyou
+    100018: polySurface10
+    100020: polySurface7
+    100022: polySurface9
+    100024: //RootNode
+    100026: yangbanceng_pCube1
+    100028: yangbanceng_pCube10
+    100030: yangbanceng_pCube3
+    100032: yangbanceng_pCube7
+    100034: yangbanceng_pCube8
+    100036: yangbanceng_pCube9
+    100038: yangbanceng_polySurface1
+    100040: yangbanceng_polySurface10
+    100042: yangbanceng_polySurface11
+    100044: yangbanceng_polySurface14
+    100046: yangbanceng_polySurface15
+    100048: yangbanceng_polySurface16
+    100050: yangbanceng_polySurface17
+    100052: yangbanceng_polySurface18
+    100054: yangbanceng_polySurface19
+    100056: yangbanceng_polySurface3
+    100058: yangbanceng_polySurface4
+    100060: yangbanceng_polySurface5
+    100062: yangbanceng_polySurface8
+    100064: yangbanceng_polySurface9
+    100066: yangbanceng_Yangbanceng
+    100068: zhaopingceng
+    400000: baohuceng
+    400002: baowenceng
+    400004: dierbianfangshui
+    400006: diyibianfangshui
+    400008: fanghuaguangchangzhuan
+    400010: geliceng
+    400012: group1
+    400014: jiceng
+    400016: lengdiziyou
+    400018: polySurface10
+    400020: polySurface7
+    400022: polySurface9
+    400024: //RootNode
+    400026: yangbanceng_pCube1
+    400028: yangbanceng_pCube10
+    400030: yangbanceng_pCube3
+    400032: yangbanceng_pCube7
+    400034: yangbanceng_pCube8
+    400036: yangbanceng_pCube9
+    400038: yangbanceng_polySurface1
+    400040: yangbanceng_polySurface10
+    400042: yangbanceng_polySurface11
+    400044: yangbanceng_polySurface14
+    400046: yangbanceng_polySurface15
+    400048: yangbanceng_polySurface16
+    400050: yangbanceng_polySurface17
+    400052: yangbanceng_polySurface18
+    400054: yangbanceng_polySurface19
+    400056: yangbanceng_polySurface3
+    400058: yangbanceng_polySurface4
+    400060: yangbanceng_polySurface5
+    400062: yangbanceng_polySurface8
+    400064: yangbanceng_polySurface9
+    400066: yangbanceng_Yangbanceng
+    400068: zhaopingceng
+    2300000: polySurface10
+    2300002: polySurface7
+    2300004: polySurface9
+    2300006: yangbanceng_pCube1
+    2300008: yangbanceng_pCube10
+    2300010: yangbanceng_pCube3
+    2300012: yangbanceng_pCube7
+    2300014: yangbanceng_pCube8
+    2300016: yangbanceng_pCube9
+    2300018: yangbanceng_polySurface1
+    2300020: yangbanceng_polySurface10
+    2300022: yangbanceng_polySurface11
+    2300024: yangbanceng_polySurface14
+    2300026: yangbanceng_polySurface15
+    2300028: yangbanceng_polySurface16
+    2300030: yangbanceng_polySurface17
+    2300032: yangbanceng_polySurface18
+    2300034: yangbanceng_polySurface19
+    2300036: yangbanceng_polySurface3
+    2300038: yangbanceng_polySurface4
+    2300040: yangbanceng_polySurface5
+    2300042: yangbanceng_polySurface8
+    2300044: yangbanceng_polySurface9
+    3300000: polySurface10
+    3300002: polySurface7
+    3300004: polySurface9
+    3300006: yangbanceng_pCube1
+    3300008: yangbanceng_pCube10
+    3300010: yangbanceng_pCube3
+    3300012: yangbanceng_pCube7
+    3300014: yangbanceng_pCube8
+    3300016: yangbanceng_pCube9
+    3300018: yangbanceng_polySurface1
+    3300020: yangbanceng_polySurface10
+    3300022: yangbanceng_polySurface11
+    3300024: yangbanceng_polySurface14
+    3300026: yangbanceng_polySurface15
+    3300028: yangbanceng_polySurface16
+    3300030: yangbanceng_polySurface17
+    3300032: yangbanceng_polySurface18
+    3300034: yangbanceng_polySurface19
+    3300036: yangbanceng_polySurface3
+    3300038: yangbanceng_polySurface4
+    3300040: yangbanceng_polySurface5
+    3300042: yangbanceng_polySurface8
+    3300044: yangbanceng_polySurface9
+    4300000: yangbanceng_pCube1
+    4300002: yangbanceng_pCube8
+    4300004: yangbanceng_polySurface9
+    4300006: yangbanceng_polySurface10
+    4300008: yangbanceng_pCube7
+    4300010: yangbanceng_polySurface11
+    4300012: yangbanceng_polySurface1
+    4300014: yangbanceng_polySurface3
+    4300016: polySurface9
+    4300018: yangbanceng_polySurface14
+    4300020: yangbanceng_polySurface4
+    4300022: polySurface10
+    4300024: yangbanceng_polySurface15
+    4300026: yangbanceng_polySurface16
+    4300028: yangbanceng_polySurface5
+    4300030: yangbanceng_polySurface17
+    4300032: yangbanceng_pCube9
+    4300034: yangbanceng_pCube10
+    4300036: yangbanceng_polySurface8
+    4300038: yangbanceng_polySurface18
+    4300040: yangbanceng_polySurface19
+    4300042: polySurface7
+    4300044: yangbanceng_pCube3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: yangbanceng_pCube3
+        weight: 1
+      - path: yangbanceng_Yangbanceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baohuceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baohuceng/yangbanceng_pCube10
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baohuceng/yangbanceng_polySurface8
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baohuceng/yangbanceng_polySurface18
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baowenceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baowenceng/yangbanceng_pCube9
+        weight: 1
+      - path: yangbanceng_Yangbanceng/baowenceng/yangbanceng_polySurface17
+        weight: 1
+      - path: yangbanceng_Yangbanceng/dierbianfangshui
+        weight: 1
+      - path: yangbanceng_Yangbanceng/dierbianfangshui/polySurface10
+        weight: 1
+      - path: yangbanceng_Yangbanceng/dierbianfangshui/polySurface10/yangbanceng_polySurface15
+        weight: 1
+      - path: yangbanceng_Yangbanceng/dierbianfangshui/yangbanceng_polySurface4
+        weight: 1
+      - path: yangbanceng_Yangbanceng/diyibianfangshui
+        weight: 1
+      - path: yangbanceng_Yangbanceng/diyibianfangshui/group1
+        weight: 1
+      - path: yangbanceng_Yangbanceng/diyibianfangshui/group1/polySurface9
+        weight: 1
+      - path: yangbanceng_Yangbanceng/diyibianfangshui/group1/yangbanceng_polySurface14
+        weight: 1
+      - path: yangbanceng_Yangbanceng/diyibianfangshui/yangbanceng_polySurface3
+        weight: 1
+      - path: yangbanceng_Yangbanceng/fanghuaguangchangzhuan
+        weight: 1
+      - path: yangbanceng_Yangbanceng/fanghuaguangchangzhuan/polySurface7
+        weight: 1
+      - path: yangbanceng_Yangbanceng/fanghuaguangchangzhuan/yangbanceng_polySurface19
+        weight: 1
+      - path: yangbanceng_Yangbanceng/geliceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/geliceng/yangbanceng_polySurface5
+        weight: 1
+      - path: yangbanceng_Yangbanceng/geliceng/yangbanceng_polySurface16
+        weight: 1
+      - path: yangbanceng_Yangbanceng/jiceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/jiceng/yangbanceng_pCube8
+        weight: 1
+      - path: yangbanceng_Yangbanceng/jiceng/yangbanceng_polySurface9
+        weight: 1
+      - path: yangbanceng_Yangbanceng/lengdiziyou
+        weight: 1
+      - path: yangbanceng_Yangbanceng/lengdiziyou/yangbanceng_polySurface1
+        weight: 1
+      - path: yangbanceng_Yangbanceng/lengdiziyou/yangbanceng_polySurface11
+        weight: 1
+      - path: yangbanceng_Yangbanceng/yangbanceng_pCube1
+        weight: 1
+      - path: yangbanceng_Yangbanceng/zhaopingceng
+        weight: 1
+      - path: yangbanceng_Yangbanceng/zhaopingceng/yangbanceng_pCube7
+        weight: 1
+      - path: yangbanceng_Yangbanceng/zhaopingceng/yangbanceng_polySurface10
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

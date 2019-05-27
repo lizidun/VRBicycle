@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LvHeJinLouTiMoBan" size="1.000000 0.749735" />
+    <ImageTarget name="LouTiMoJia" size="1.000000 0.749735" />
+    <ImageTarget name="WuMianYangBan" size="1.000000 0.749735" />
+    <ImageTarget name="QiTi" size="1.000000 0.749735" />
+    <ImageTarget name="PanShiJiaoShouJia" size="1.000000 0.749735" />
+    <ImageTarget name="dongbitadiao" size="1.000000 0.749735" />
+    <ImageTarget name="LvMoBan" size="1.000000 0.749735" />
+    <ImageTarget name="tarmac" size="1.000000 0.699219" />
+    <ImageTarget name="chips" size="1.000000 0.699219" />
+    <ImageTarget name="stones" size="1.000000 0.699219" />
+  </Tracking>
+</QCARConfig>
