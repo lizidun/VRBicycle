@@ -18324,7 +18324,7 @@ ModelImporter:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -18352,7 +18352,7 @@ ModelImporter:
       takeName: Take 001
       internalID: 7400000
       firstFrame: 1
-      lastFrame: 870
+      lastFrame: 909
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -20982,7 +20982,7 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
