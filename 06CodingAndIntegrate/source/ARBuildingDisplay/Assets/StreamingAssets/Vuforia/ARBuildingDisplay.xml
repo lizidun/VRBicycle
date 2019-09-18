@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="GangJinGongChengYangBan" size="1.000000 0.749735" />
+    <ImageTarget name="HunNingTuShiTiYangBan" size="1.000000 0.749735" />
+    <ImageTarget name="ZhuangTouFangShuiYangBan" size="1.000000 0.749735" />
     <ImageTarget name="LvHeJinLouTiMoBan" size="1.000000 0.749735" />
     <ImageTarget name="LouTiMoJia" size="1.000000 0.749735" />
     <ImageTarget name="WuMianYangBan" size="1.000000 0.749735" />
